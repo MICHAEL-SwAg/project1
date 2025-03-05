@@ -1,3 +1,3 @@
-a = 5;
-b = 5;
+a = 15;
+b = 15;
 consolee.log(a + b);
